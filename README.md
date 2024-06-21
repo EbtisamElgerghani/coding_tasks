@@ -53,6 +53,7 @@ The model fail to analyse the first review after the removal of the stop_words, 
 the results of polarity.
 The model successfully applied the sentiment analysis on the second review.
 The model successfully applied on the similarity comparison.
-The results was like:
-Review 1: Negative polarity of -0.05 then, positive polarity of 0.325 and subjectivity of 0.783.
-Review 2: Positive polarity of 0.8 and subjectivity of 0.825.
+The results was:
+ 
+- Review 1: Negative polarity of -0.05 then, positive polarity of 0.325 and subjectivity of 0.783.
+- Review 2: Positive polarity of 0.8 and subjectivity of 0.825.
